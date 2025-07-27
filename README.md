@@ -18,6 +18,6 @@ This repository contains a demo MATLAB implementation of an aberration compensat
 
 1. **Open MATLAB** and navigate to the project folder.
 
-2. **Add all files to the path**
+2. **Add all files to the path** and run Demo.m
 
 
