@@ -20,4 +20,20 @@ This repository contains a demo MATLAB implementation of an aberration compensat
 
 2. **Add all files to the path** and run Demo.m
 
+## 📚 Citation
+
+If you use this code in your research or publication, please cite:
+```bibtex
+@article{Harshal_2024,
+  title = {Dimensionality reduction technique based phase aberration compensation and spurious fringe removal in off-axis digital holographic microscopy},
+  journal = {Optics and Lasers in Engineering},
+  volume = {172},
+  pages = {107853},
+  year = {2024},
+  issn = {0143-8166},
+  doi = {https://doi.org/10.1016/j.optlaseng.2023.107853},
+  url = {https://www.sciencedirect.com/science/article/pii/S0143816623003822},
+  author = {Harshal Chaudhari and Rishikesh Kulkarni and Pradeep Kumar Sundaravadivelu and Rajkumar P. Thummer and M.K. Bhuyan},
+  keywords = {Digital holographic microscopy, Phase aberration, Phase aberration compensation, Dimensionality reduction},
+}
 
